@@ -1,4 +1,4 @@
-# Station Météo Matter avec thingy:53
+# Station Météo Zigbee avec thingy:53
 
 Ce programme permet de créer un pont de connectivité entre le nRF9160 et le nRF52840 sur le Thingy:91. Il facilite la réception des données via Bluetooth Low Energy (BLE). Grâce à ce bridge, vous pouvez facilement interagir avec les capteurs et les services fournis par le Thingy:91.
 
