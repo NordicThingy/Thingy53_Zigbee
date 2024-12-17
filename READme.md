@@ -55,12 +55,12 @@ Dans cette section, vous pourrez installer, désinstaller et sélectionner la ve
 - Dans Add File, cliquez sur Browse, allez dans le dossier téléchargé > ouvrez le dossier .zip.
 - Cliquez ensuite sur Write, puis Write à nouveau dans la fenêtre de confirmation pour flasher le code.
 
-**Pairage avec Matter :**
+**Pairage avec Zigbee :**
 1. Activation du mode de pairage
 - Sur le Thingy:53, appuyez sur le bouton utilisateur (SW1) jusqu’à ce que la LED clignote en indiquant le mode de pairage Zigbee.
 
 2. Ajouter le Thingy:53 à une passerelle Zigbee
-- Ouvrez votre passerelle Zigbee (ex. Zigbee2MQTT, Philips Hue, ou autre)
-- Mettez la passerelle en mode pairage et suivez les instructions spécifiques à votre passerelle pour détecter et connecter le Thingy:53.
+- Ouvrez votre passerelle Zigbee (ex. Zigbee2MQTT, Philips Hue, ou autre) et installez puis ouvrez l'application "Smart life"
+- Mettez la passerelle en mode pairage et suivez les instructions spécifiques à votre passerelle et à l'application pour détecter et connecter le Thingy:53.
 - Une fois connecté, le Thingy:53 apparaîtra comme un dispositif dans votre réseau Zigbee.
 - Utilisez l’interface de votre passerelle pour visualiser les données des capteurs ou configurez un outil comme Zigbee2MQTT pour les exporter vers une plateforme comme Home Assistant.
